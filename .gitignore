@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/publish-calendar.yml
+!public/
+!public/index.html
+!public/Nobu_Madrid_Outlook.ics
