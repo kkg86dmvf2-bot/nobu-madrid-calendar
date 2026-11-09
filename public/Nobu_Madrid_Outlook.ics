@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 19579)
-Total output lines: 1986
-
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Nobu Madrid//External Events//ES
@@ -12,8 +9,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:bf3bddf933e7474365f85e998a62@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260928
 SUMMARY:Bisutex - Salón Internacional de Bisutería y Complementos
@@ -27,8 +24,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:07d33c1bb8ded047600c7422a1cc@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260928
 SUMMARY:Estampa - Feria de Arte Contemporáneo
@@ -42,8 +39,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:5448381f155945f413c1ab537b27@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260928
 SUMMARY:Madridjoya - Salón Internacional de Joyería y Relojería
@@ -57,8 +54,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:7b3b2e440cd45762cda4df5e1d1b@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -72,8 +69,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:5b0bf79d0e3d73affb3a0c05bb0b@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -87,8 +84,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:936372944c869fbf1418241ed7ae@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -102,8 +99,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:e351c7fd38bc2ed5ba22e9d5bd45@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -117,8 +114,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:39ce1057fb77bf8825d8c61e6b0b@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -132,8 +129,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:e1a0c44375dfba2573ebbe5bce30@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -147,15 +144,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:dcb613e0ebdfcb7152e8f8725d6e@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261006T073000Z
 SUMMARY:Fruit Attraction - Feria Internacional del Sector de Frutas y Hor
  talizas
 LOCATION:IFEMA
-DESCRIPTION:Estado actual: Fecha publicada\nMás información: https://ww
- w.ifema.es/calendario
+DESCRIPTION:Horario en Madrid: IFEMA fija el horario del 6 y 7 de octubre
+  de 09:30 a 19:00 y el del 8 de octubre de 09:30 a 16:00.\nLa informaci
+ ón de este evento ha sido actualizada.\nEstado actual: Fecha publicada\
+ nMás información: https://www.ifema.es/fruit-attraction/horario-activi
+ dades\n\nActualizaciones:\n2026-11-09: IFEMA publica el horario de acces
+ o: del 6 al 7 de octubre\, de 09:30 a 19:00\; el 8 de octubre\, de 09:30
+  a 16:00. Fuente: https://www.ifema.es/fruit-attraction/horario-activida
+ des
 CATEGORIES:Feria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -163,8 +165,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:7fe5c6eea90cc27270eccf763b99@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
 SUMMARY:Open de España de Golf 2026
@@ -178,8 +180,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:f22c8f67d57962c1ffe279979a50@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261009T183000Z
 DTEND:20261009T210000Z
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -189,8 +191,8 @@ DESCRIPTION:Horario en Madrid: comienza el 09/10/2026 a las 20:30 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.esmadrid.com/agenda/shakira-estadio-shakira\n\nActualizaciones:\n
  2026-11-09: Live Nation confirma para el 9 de octubre el inicio estimado
-  del concierto a las 20:30 y su finalización estimada a las 23:00.. Fue
- nte: https://www.livenation.es/shakira
+  del concierto a las 20:30 y su finalización estimada a las 23:00. Fuen
+ te: https://www.livenation.es/shakira
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -198,8 +200,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:2f7a6e7f19098052115333cdb0a0@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261010T183000Z
 DTEND:20261010T210000Z
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -209,8 +211,8 @@ DESCRIPTION:Horario en Madrid: comienza el 10/10/2026 a las 20:30 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.esmadrid.com/agenda/shakira-estadio-shakira\n\nActualizaciones:\n
  2026-11-09: Live Nation confirma para el 10 de octubre el inicio estimad
- o del concierto a las 20:30 y su finalización estimada a las 23:00.. Fu
- ente: https://www.livenation.es/shakira
+ o del concierto a las 20:30 y su finalización estimada a las 23:00. Fue
+ nte: https://www.livenation.es/shakira
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -218,8 +220,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:123f836a430e51794d8b8af3d316@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261011T183000Z
 DTEND:20261011T210000Z
 SUMMARY:Residencia LMYNL Madrid - Shakira
@@ -229,8 +231,8 @@ DESCRIPTION:Horario en Madrid: comienza el 11/10/2026 a las 20:30 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.esmadrid.com/agenda/shakira-estadio-shakira\n\nActualizaciones:\n
  2026-11-09: Live Nation confirma para el 11 de octubre el inicio estimad
- o del concierto a las 20:30 y su finalización estimada a las 23:00.. Fu
- ente: https://www.livenation.es/shakira
+ o del concierto a las 20:30 y su finalización estimada a las 23:00. Fue
+ nte: https://www.livenation.es/shakira
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -238,8 +240,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:992ab4cd04fc13457c434d199ccb@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Fiesta Nacional de España
@@ -254,8 +256,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:1f669a959cb4ae67936fe2627052@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261018
 SUMMARY:Congreso Nacional SEORL-CCC 2026
@@ -269,8 +271,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:5e274179426992c699c38595b811@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 SUMMARY:Congreso Nacional SEPEAP 2026
@@ -284,8 +286,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:90e23f85a779517a3080f55011b0@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261028
 SUMMARY:Congreso ESMO 2026 - Oncología Médica
@@ -299,8 +301,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:f4be3af34ff442f48a9996888a39@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Halloween
@@ -313,8 +315,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:66f1f64e3d6c7b5935b9e452bfa3@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Festivo de Todos los Santos (traslado)
@@ -329,8 +331,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:2f2992827b2a5696470c96667fae@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261107
 SUMMARY:Congreso ESSO 2026 - Oncología Quirúrgica
@@ -348,8 +350,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:c91e4624a5b79865d674f8a283f9@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261106
 SUMMARY:XXX Cumbre Iberoamericana de Jefes de Estado y de Gobierno
@@ -371,14 +373,19 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:03b54ade17730acc52f9618adf29@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261108T200000Z
 SUMMARY:LaLiga - Atlético de Madrid vs. FC Barcelona
 LOCATION:Metropolitano
-DESCRIPTION:Estado actual: Fecha publicada\nMás información: https://ww
- w.esmadrid.com/calendario-eventos-madrid
+DESCRIPTION:Horario en Madrid: comienza el 08/11/2026 a las 21:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://www.atleticodemadrid.com/prepartido
+ s/atletico-de-madrid-fc-barcelona-08-11-2026-22-15\n\nActualizaciones:\n
+ 2026-11-09: El Atlético de Madrid confirma el inicio del partido frente
+  al FC Barcelona el 8 de noviembre a las 21:00\, en el Riyadh Air Metrop
+ olitano. Fuente: https://www.atleticodemadrid.com/prepartidos/atletico-d
+ e-madrid-fc-barcelona-08-11-2026-22-15
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -386,8 +393,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:545ffa232c3fdf3b45a09b4de902@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261108T143000Z
 SUMMARY:NFL Madrid Game - Atlanta Falcons vs. Cincinnati Bengals
 LOCATION:Estadio Santiago Bernabéu
@@ -404,8 +411,8 @@ DESCRIPTION:Horario en Madrid: comienza el 08/11/2026 a las 15:30 h.\nLa
  el=cbe0aa2dedcb1610VgnVCM2000001f4a900aRCRD&vgnextoid=9a90b4be9d781a10Vg
  nVCM100000891ecb1aRCRD\n2026-11-09: La NFL publica el inicio del partido
   del 8 de noviembre a las 15:30\, hora peninsular\; el Ayuntamiento de M
- adrid confirma el mismo horario y prevé su finalización a las 19:00.. 
- Fuente: https://www.nfl.com/news/guia-del-dia-del-partido
+ adrid confirma el mismo horario y prevé su finalización a las 19:00. F
+ uente: https://www.nfl.com/news/guia-del-dia-del-partido
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -413,8 +420,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:6eeefc6b947b054b7bbbf23769f5@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Día de la Almudena - Festivo local de Madrid
@@ -429,8 +436,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:6415ab89cc6b3a878a3c59e8a48f@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261121T103000Z
 DTEND:20261129T193000Z
 SUMMARY:Feriarte - Feria de Arte y Antigüedades
@@ -451,18 +458,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:71066fd41efc1d256334f5d08588@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261130
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261126T163000Z
 SUMMARY:Madrid Horse Week 2026 - Evento Hípico Internacional
-LOCATION:IFEMA MADRID - Pabellones 4 y 6
-DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
- ctual: Fecha publicada\nMás información: https://www.madridhorseweek.c
- om/\n\nActualizaciones:\n2026-10-19: El organizador confirma los pabello
- nes 4 y 6 de IFEMA MADRID como ubicación del evento\, que se celebra de
- l 26 al 29 de noviembre de 2026. Fuente: https://www.madridhorseweek.com
- /
+LOCATION:IFEMA MADRID\, pabellones 4 y 6\; cuadras en el pabellón 2
+DESCRIPTION:Horario en Madrid: La primera sesión anunciada para el 26 de
+  noviembre empieza a las 17:30\; el programa de los días siguientes tie
+ ne horarios distintos.\nLa información de este evento ha sido actualiza
+ da.\nEstado actual: Fecha publicada\nMás información: https://www.madr
+ idhorseweek.com/cambio-de-ubicacion-de-la-madrid-horse-week-en-los-pabel
+ lones-de-ifema-madrid/\n\nActualizaciones:\n2026-10-19: El organizador c
+ onfirma los pabellones 4 y 6 de IFEMA MADRID como ubicación del evento\
+ , que se celebra del 26 al 29 de noviembre de 2026. Fuente: https://www.
+ madridhorseweek.com/\n2026-11-09: La organización traslada el evento a 
+ los pabellones 4 y 6 de IFEMA MADRID y sitúa las cuadras en el pabelló
+ n 2. La sesión del 26 de noviembre comienza a las 17:30\; el programa d
+ e cada día tiene horarios distintos. Fuente: https://www.madridhorsewee
+ k.com/cambio-de-ubicacion-de-la-madrid-horse-week-en-los-pabellones-de-i
+ fema-madrid/
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -470,8 +484,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:472e377fcd26e612381dca22c32e@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Día de la Constitución Española (festivo trasladado)
@@ -486,8 +500,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:3623e92fc5e3562c0b6e9307b277@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Día de la Inmaculada Concepción
@@ -502,8 +516,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:cd94aaba71df372b099fcb7f8d89@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Nochebuena
@@ -516,8 +530,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:0b97f5e365ca09772c2a58a79699@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Navidad
@@ -532,8 +546,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:58ae15dcbfff532acbedea065e47@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Nochevieja
@@ -546,8 +560,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:6080a99f565ffac8ae3ce5976203@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:San Silvestre Vallecana 2026
@@ -561,8 +575,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:9ea6484438f7d0ccb027063e6f0f@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Año Nuevo
@@ -571,8 +585,7 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Festivo confirmado\nMás información: https://www.bocm.es/eli/es
  -md/d/2026/09/30/82/con\n\nActualizaciones:\n2026-10-07: El calendario l
  aboral de 2027 ha quedado confirmado por el Decreto 82/2026 de la Comuni
- dad de Madrid.. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/co
- n
+ dad de Madrid. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/con
 CATEGORIES:Festivo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -580,8 +593,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:fb9207517e4d118347f006f86660@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Día de Reyes
@@ -590,8 +603,7 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Festivo confirmado\nMás información: https://www.bocm.es/eli/es
  -md/d/2026/09/30/82/con\n\nActualizaciones:\n2026-10-07: El calendario l
  aboral de 2027 ha quedado confirmado por el Decreto 82/2026 de la Comuni
- dad de Madrid.. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/co
- n
+ dad de Madrid. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/con
 CATEGORIES:Festivo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -599,8 +611,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:9623d9069e0c908cbb550a49556f@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270120T090000Z
 DTEND:20270124T170000Z
 SUMMARY:FITUR 2027 - Feria Internacional de Turismo
@@ -619,8 +631,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:127e0cca2aa511afd608153e1472@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270201T080000Z
 DTEND:20270203T170000Z
 SUMMARY:Madrid Fusión 2027 - Congreso Internacional de Gastronomía
@@ -641,8 +653,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:f637886299e8e4cc96e45474a211@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270203T090000Z
 DTEND:20270206T180000Z
 SUMMARY:Intergift 2027 - Salón Internacional del Regalo y Decoración
@@ -652,8 +664,8 @@ DESCRIPTION:Horario en Madrid: comienza el 03/02/2027 a las 10:00 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.ifema.es/intergift/que-es\n\nActualizaciones:\n2026-11-09: IFEMA 
  publica el horario profesional de Intergift\, de 10:00 a 19:00\, del 3 a
- l 6 de febrero.. Fuente: https://www.ifema.es/intergift/horario-activida
- des
+ l 6 de febrero. Fuente: https://www.ifema.es/intergift/horario-actividad
+ es
 CATEGORIES:Diseño
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -661,8 +673,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:a7722dd7e6f1827a6f2acf68c266@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270204T090000Z
 DTEND:20270206T180000Z
 SUMMARY:MOMAD 2027 - Salón Internacional de Moda
@@ -672,7 +684,7 @@ DESCRIPTION:Horario en Madrid: comienza el 04/02/2027 a las 10:00 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.ifema.es/momad\n\nActualizaciones:\n2026-11-09: IFEMA publica el 
  horario profesional de MOMAD\, de 10:00 a 19:00\, del 4 al 6 de febrero.
- . Fuente: https://www.ifema.es/momad/horario-actividades
+  Fuente: https://www.ifema.es/momad/horario-actividades
 CATEGORIES:Moda
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -680,8 +692,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:da367f27966d4df973e2ff98a1f6@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:San Valentín
@@ -694,8 +706,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:900b78b4f4847ffd44da958ee549@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270303T090000Z
 DTEND:20270307T170000Z
 SUMMARY:ARCOmadrid 2027 - Feria Internacional de Arte Contemporáneo
@@ -718,8 +730,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:eebd24e1f80935c711bb2169a9a8@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Día del Padre y festividad de San José
@@ -728,8 +740,8 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Festivo confirmado\nMás información: https://www.bocm.es/eli/es
  -md/d/2026/09/30/82/con\n\nActualizaciones:\n2026-10-07: San José ha si
  do confirmado como festivo laboral en la Comunidad de Madrid para 2027\;
-  se mantiene la misma fecha del Día del Padre.. Fuente: https://www.boc
- m.es/eli/es-md/d/2026/09/30/82/con
+  se mantiene la misma fecha del Día del Padre. Fuente: https://www.bocm
+ .es/eli/es-md/d/2026/09/30/82/con
 CATEGORIES:Festivo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -737,8 +749,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:96587099a17965096d3912ecedff@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Jueves Santo
@@ -747,8 +759,7 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Festivo confirmado\nMás información: https://www.bocm.es/eli/es
  -md/d/2026/09/30/82/con\n\nActualizaciones:\n2026-10-07: El calendario l
  aboral de 2027 ha quedado confirmado por el Decreto 82/2026 de la Comuni
- dad de Madrid.. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/co
- n
+ dad de Madrid. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/con
 CATEGORIES:Festivo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -756,8 +767,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:75aafa946df5ee2e6611909a5bf2@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Viernes Santo
@@ -766,8 +777,7 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Festivo confirmado\nMás información: https://www.bocm.es/eli/es
  -md/d/2026/09/30/82/con\n\nActualizaciones:\n2026-10-07: El calendario l
  aboral de 2027 ha quedado confirmado por el Decreto 82/2026 de la Comuni
- dad de Madrid.. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/co
- n
+ dad de Madrid. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/con
 CATEGORIES:Festivo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -775,8 +785,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:19c1bab585fedd076374ecce3185@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:LaLiga - Real Madrid vs. Atlético de Madrid
@@ -794,8 +804,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:5a41283175be9bc6ca811780b4fb@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Movistar Medio Maratón de Madrid 2027
@@ -809,8 +819,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:307b406fb4e4ad0bf130db8b3b00@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270503
 SUMMARY:Mutua Madrid Open 2027 - Torneo ATP y WTA
@@ -824,8 +834,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:28fdd6829831e7b58afd65040b67@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:Maratón de Madrid 2027
@@ -839,8 +849,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:9e18baab207fdf1fecc0ed9ed9b3@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270426T080000Z
 DTEND:20270429T150000Z
 SUMMARY:Salón Gourmets 2027 - Feria Internacional de Alimentación y Beb
@@ -862,8 +872,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:6625db8f8508878069c3a1c0f15d@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Fiesta del Trabajo
@@ -872,8 +882,7 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Festivo confirmado\nMás información: https://www.bocm.es/eli/es
  -md/d/2026/09/30/82/con\n\nActualizaciones:\n2026-10-07: El calendario l
  aboral de 2027 ha quedado confirmado por el Decreto 82/2026 de la Comuni
- dad de Madrid.. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/co
- n
+ dad de Madrid. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30/82/con
 CATEGORIES:Festivo
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -881,8 +890,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:19ee172b0ed7a3e60d691c57f13e@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Día de la Comunidad
@@ -893,9 +902,9 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  rid-aprueba-calendario-laboral-2027-12-festivos-dos-fijaran-ayuntamiento
  s\n\nActualizaciones:\n2026-10-07: La Comunidad de Madrid confirma que l
  a celebración se mantiene el 2 de mayo\, aunque no figura como festivo 
- laboral en 2027 por coincidir en domingo.. Fuente: https://www.comunidad
- .madrid/notas-prensa/2026/09/30/comunidad-madrid-aprueba-calendario-labo
- ral-2027-12-festivos-dos-fijaran-ayuntamientos
+ laboral en 2027 por coincidir en domingo. Fuente: https://www.comunidad.
+ madrid/notas-prensa/2026/09/30/comunidad-madrid-aprueba-calendario-labor
+ al-2027-12-festivos-dos-fijaran-ayuntamientos
 CATEGORIES:Celebración oficial
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -903,8 +912,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:55179e8fb0cb4b7384465cf339c7@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:Día de la Madre
@@ -917,8 +926,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:33de6be814120ca75034f4b9c6b7@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:LaLiga - Real Madrid vs. FC Barcelona
@@ -938,8 +947,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf6f81387c6890fb5cc0e8e2488@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:Final de la UEFA Champions League 2027
@@ -954,8 +963,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:55a0b94a32aa1207eb13c7b36754@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
 SUMMARY:Asunción de la Virgen (festivo trasladado)
@@ -964,7 +973,241 @@ DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Festivo confirmado\nMás información: https://www.bocm.es/eli/es
  -md/d/2026/09/30/82/con\n\nActualizaciones:\n2026-10-07: La fecha anteri
  or era el 15 de agosto de 2027 y el festivo laboral se ha trasladado al 
- 16 de agosto de 2027.. Fuente: https://www.b…1579 tokens truncated… Municipal
+ 16 de agosto de 2027. Fuente: https://www.bocm.es/eli/es-md/d/2026/09/30
+ /82/con
+CATEGORIES:Festivo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8dd013218d692fe9f9fa9c2224@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261013T190000Z
+SUMMARY:UEFA Champions League - Atlético de Madrid vs. Manchester United
+LOCATION:Estadio Riyadh Air Metropolitano
+DESCRIPTION:Horario en Madrid: comienza el 13/10/2026 a las 21:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://www.atleticodemadrid.com/noticias/n
+ uestros-rivales-de-la-fase-liga-de-la-champions-league-para-esta-tempora
+ da\n\nActualizaciones:\n2026-11-09: El Atlético de Madrid confirma que 
+ el partido frente al Manchester United comenzó el 13 de octubre a las 2
+ 1:00\, en el Riyadh Air Metropolitano. Fuente: https://www.atleticodemad
+ rid.com/noticias/nuestros-rivales-de-la-fase-liga-de-la-champions-league
+ -para-esta-temporada
+CATEGORIES:Deporte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:549536307963320ffe717f86abbc@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261018
+SUMMARY:GUEXT 2026 - Salón Internacional de Proveedores y Servicios para
+  la Hostelería
+LOCATION:IFEMA
+DESCRIPTION:Estado actual: Fecha publicada\nMás información: https://ww
+ w.ifema.es/calendario
+CATEGORIES:Feria
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:02d83fed6e1e82da284ca770c28c@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261021T190000Z
+SUMMARY:UEFA Champions League - Real Madrid vs. RB Leipzig
+LOCATION:Estadio Santiago Bernabéu
+DESCRIPTION:Horario en Madrid: comienza el 21/10/2026 a las 21:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://www.realmadrid.com/es-ES/futbol/par
+ tidos/entradas/real-madrid-rb-leipzig-21-10-2026\n\nActualizaciones:\n20
+ 26-11-09: El Real Madrid confirma que el partido frente al RB Leipzig co
+ menzó el 21 de octubre a las 21:00\, en el Estadio Santiago Bernabéu. 
+ Fuente: https://www.realmadrid.com/es-ES/futbol/partidos/entradas/real-m
+ adrid-rb-leipzig-21-10-2026
+CATEGORIES:Deporte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b9532e61156b0a45dd19c062d3c@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261027T190000Z
+SUMMARY:Morat - Ya es Mañana Tour
+LOCATION:Movistar Arena
+DESCRIPTION:Horario en Madrid: comienza el 27/10/2026 a las 20:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://movistararena.es/en/programacion/ev
+ ento/morat-yem-world-tour/28-10-2026/20:00\n\nActualizaciones:\n2026-11-
+ 09: Movistar Arena confirma que Morat comenzó su actuación el 27 de oc
+ tubre a las 20:00\; la apertura de puertas fue a las 18:30. Fuente: http
+ s://movistararena.es/en/programacion/evento/morat-yem-world-tour/28-10-2
+ 026/20:00
+CATEGORIES:Música
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:474f6b99fcff2ef4a0fbdbf340c9@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261028T190000Z
+SUMMARY:Morat - Ya es Mañana Tour
+LOCATION:Movistar Arena
+DESCRIPTION:Horario en Madrid: comienza el 28/10/2026 a las 20:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://movistararena.es/en/programacion/ev
+ ento/morat-yem-world-tour/28-10-2026/20:00\n\nActualizaciones:\n2026-11-
+ 09: Movistar Arena confirma que Morat comenzó su actuación el 28 de oc
+ tubre a las 20:00\; la apertura de puertas fue a las 18:30. Fuente: http
+ s://movistararena.es/en/programacion/evento/morat-yem-world-tour/28-10-2
+ 026/20:00
+CATEGORIES:Música
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc40dde7ef1cfe27070d6ead56@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+SUMMARY:8.º Congreso APD de Directivos
+LOCATION:Palacio Municipal\, IFEMA MADRID
+DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
+ ctual: Aplazado\nMás información: https://www.apd.es/congreso-directiv
+ os-2026/\n\nActualizaciones:\n2026-11-09: APD indica que el encuentro pr
+ evisto para el 28 y 29 de octubre ha sido aplazado. La organización tod
+ avía no publica una nueva fecha. Fuente: https://www.apd.es/congreso-di
+ rectivos-2026/
+CATEGORIES:Congreso
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:a29691a91a208e54d22d3cde7c8d@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261030T190000Z
+SUMMARY:Morat - Ya es Mañana Tour
+LOCATION:Movistar Arena
+DESCRIPTION:Horario en Madrid: comienza el 30/10/2026 a las 20:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://movistararena.es/programacion/event
+ o/morat-yem-world-tour/30-10-2026/20:00/informacion\n\nActualizaciones:\
+ n2026-11-09: Movistar Arena confirma que Morat comenzó su actuación el
+  30 de octubre a las 20:00\; la apertura de puertas fue a las 18:30. Fue
+ nte: https://movistararena.es/programacion/evento/morat-yem-world-tour/3
+ 0-10-2026/20:00/informacion
+CATEGORIES:Música
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:c11dcaf89fcd31a6802074dd8dd3@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261031T190000Z
+SUMMARY:Morat - Ya es Mañana Tour
+LOCATION:Movistar Arena
+DESCRIPTION:Horario en Madrid: comienza el 31/10/2026 a las 20:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://movistararena.es/en/programacion/ev
+ ento/morat-yem-world-tour/28-10-2026/20:00\n\nActualizaciones:\n2026-11-
+ 09: Movistar Arena confirma que Morat comenzó su actuación el 31 de oc
+ tubre a las 20:00\; la apertura de puertas fue a las 18:30. Fuente: http
+ s://movistararena.es/en/programacion/evento/morat-yem-world-tour/28-10-2
+ 026/20:00
+CATEGORIES:Música
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:f39f6aa8e3e79c3d457ce6077a7e@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261103T200000Z
+SUMMARY:UEFA Champions League - Atlético de Madrid vs. Bayern Múnich
+LOCATION:Estadio Riyadh Air Metropolitano
+DESCRIPTION:Horario en Madrid: comienza el 03/11/2026 a las 21:00 h.\nLa 
+ información de este evento ha sido actualizada.\nEstado actual: Fecha p
+ ublicada\nMás información: https://www.atleticodemadrid.com/prepartido
+ s/atletico-de-madrid-bayern-munich-03-11-2026-21-00\n\nActualizaciones:\
+ n2026-11-09: El Atlético de Madrid confirma el inicio del partido frent
+ e al Bayern Múnich el 3 de noviembre a las 21:00\, en el Riyadh Air Met
+ ropolitano. Fuente: https://www.atleticodemadrid.com/prepartidos/atletic
+ o-de-madrid-bayern-munich-03-11-2026-21-00
+CATEGORIES:Deporte
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f89c84c5177f6a5723a6259cbe2@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261104T090000Z
+DTEND:20261105T180000Z
+SUMMARY:Tech Show Madrid 2026
+LOCATION:IFEMA MADRID - Pabellones 3 y 5
+DESCRIPTION:Horario en Madrid: comienza el 04/11/2026 a las 10:00 h y ter
+ mina el 05/11/2026 a las 19:00 h.\nLa información de este evento ha sid
+ o actualizada.\nEstado actual: Fecha publicada\nMás información: https
+ ://www.techshowmadrid.es/programa-completo\n\nActualizaciones:\n2026-10-
+ 31: El organizador confirma los pabellones 3 y 5 de IFEMA MADRID para Te
+ ch Show Madrid\, sin cambios en las fechas del 4 y 5 de noviembre de 202
+ 6. Fuente: https://www.techshowmadrid.es/programa-completo\n2026-11-09: 
+ La organización publica el horario de Tech Show Madrid: 10:00 a 19:00 l
+ os días 4 y 5 de noviembre. Fuente: https://www.techshowmadrid.es/progr
+ ama-completo
+CATEGORIES:Tecnología
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:df088f7c25b99278c0049796f754@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261110T083000Z
+SUMMARY:Semana Internacional de la Construcción 2026 - CONSTRUTEC\, VETE
+ CO\, SMART DOORS y PISCIMAD
+LOCATION:IFEMA
+DESCRIPTION:Horario en Madrid: IFEMA fija el horario del 10 al 12 de novi
+ embre de 09:30 a 18:30 y el del 13 de noviembre de 09:30 a 16:00.\nLa in
+ formación de este evento ha sido actualizada.\nEstado actual: Fecha pub
+ licada\nMás información: https://www.ifema.es/construtec/horario-activ
+ idades\n\nActualizaciones:\n2026-11-09: IFEMA publica el inicio de acces
+ o profesional a las 09:30: del 10 al 12 de noviembre\, cierre a las 18:3
+ 0\; el 13 de noviembre\, cierre a las 16:00. Fuente: https://www.ifema.e
+ s/construtec/horario-actividades
+CATEGORIES:Feria
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+UID:156b94755b2845e116ca4d85eaaf@nobu-madrid-calendar
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261114
+SUMMARY:Congreso Internacional sobre Enfermedades Infecciosas 2026
+LOCATION:IFEMA MADRID - Palacio Municipal
 DESCRIPTION:La información de este evento ha sido actualizada.\nEstado a
  ctual: Fecha publicada\nMás información: https://isidcongress.org/gene
  ral-info/\n\nActualizaciones:\n2026-10-31: La información del congreso 
@@ -978,8 +1221,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:d337a050b62b1d4d938a78eb2023@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261113T090000Z
 DTEND:20261115T173000Z
 SUMMARY:Salón Look 2026 - Salón Internacional de la Imagen y la Estéti
@@ -993,8 +1236,8 @@ DESCRIPTION:Horario en Madrid: comienza el 13/11/2026 a las 10:00 h y ter
  e IFEMA MADRID y mantiene la celebración del 13 al 15 de noviembre de 2
  026. Fuente: https://www.ifema.es/look/horario-actividades\n2026-11-09: 
  IFEMA publica el horario de Salón Look: 10:00 a 20:00 los días 13 y 14
- \, y 10:00 a 18:30 el día 15 de noviembre.. Fuente: https://www.ifema.e
- s/look/horario-actividades
+ \, y 10:00 a 18:30 el día 15 de noviembre. Fuente: https://www.ifema.es
+ /look/horario-actividades
 CATEGORIES:Moda y belleza
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1002,8 +1245,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:27d8f525c55bfe32f1c6a389bf66@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261116T110000Z
 DTEND:20261117T140000Z
 SUMMARY:Madrid Top Wine by Peñín 2026
@@ -1020,8 +1263,8 @@ DESCRIPTION:Horario en Madrid: comienza el 16/11/2026 a las 12:00 h y ter
  Fuente: https://guiapenin.wine/magazine-noticias-madrid-top-wine-by-peni
  n-impulsa-madrid-como-referente-internacional-vino-calidad\n2026-11-09: 
  Peñín publica el horario de Madrid Top Wine: el 16 de noviembre\, de 1
- 2:00 a 20:00\, y el día 17\, de 11:00 a 15:00.. Fuente: https://guiapen
- in.wine/xxvi-salon-de-los-mejores-vinos
+ 2:00 a 20:00\, y el día 17\, de 11:00 a 15:00. Fuente: https://guiapeni
+ n.wine/xxvi-salon-de-los-mejores-vinos
 CATEGORIES:Gastronomía
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1029,8 +1272,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:7755268ddae3068baccab46e4819@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261117T090000Z
 DTEND:20261119T180000Z
 SUMMARY:Interihotel Madrid 2026 - Diseño de Hoteles y Restaurantes
@@ -1043,7 +1286,7 @@ DESCRIPTION:Horario en Madrid: comienza el 17/11/2026 a las 10:00 h y ter
  bellón 1\; se mantienen las fechas del 17 al 19 de noviembre de 2026. F
  uente: https://interihotel.com/visitar\n2026-11-09: El organizador publi
  ca el horario de visita de Interihotel Madrid\, de 10:00 a 19:00 durante
-  los tres días.. Fuente: https://interihotel.com/visitar
+  los tres días. Fuente: https://interihotel.com/visitar
 CATEGORIES:Diseño
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1051,8 +1294,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1fac48f1f21370eb71dfe3311af@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261124T083000Z
 DTEND:20261126T173000Z
 SUMMARY:GENERA y MATELEC 2026 - Energía\, Electrificación y Sostenibili
@@ -1063,8 +1306,8 @@ DESCRIPTION:Horario en Madrid: comienza el 24/11/2026 a las 09:30 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.ifema.es/calendario\n\nActualizaciones:\n2026-11-09: IFEMA public
  a para Genera y Matelec un horario profesional de 9:30 a 18:30\, del 24 
- al 26 de noviembre.. Fuente: https://www.ifema.es/genera/horario-activid
- ades
+ al 26 de noviembre. Fuente: https://www.ifema.es/genera/horario-activida
+ des
 CATEGORIES:Feria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1072,8 +1315,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:e0cb434b877d90fb90e57f351b72@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270204T090000Z
 DTEND:20270206T180000Z
 SUMMARY:Bisutex 2027 - Salón Internacional de Bisutería y Complementos
@@ -1088,8 +1331,8 @@ DESCRIPTION:Horario en Madrid: comienza el 04/02/2027 a las 10:00 h y ter
   y su núcleo de conexión\; se mantienen las fechas del 4 al 6 de febre
  ro de 2027. Fuente: https://www.ifema.es/bisutex/horario-actividades\n20
  26-11-09: IFEMA publica el horario profesional de Bisutex\, de 10:00 a 1
- 9:00\, del 4 al 6 de febrero.. Fuente: https://www.ifema.es/bisutex/hora
- rio-actividades
+ 9:00\, del 4 al 6 de febrero. Fuente: https://www.ifema.es/bisutex/horar
+ io-actividades
 CATEGORIES:Moda
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1097,15 +1340,20 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:ff2771523916185c2f1a0f3f7161@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
-DTSTART;VALUE=DATE:20270216
-DTEND;VALUE=DATE:20270219
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20270216T083000Z
 SUMMARY:Anuga Select Ibérica 2027 - Feria Internacional de Alimentación
   y Bebidas
 LOCATION:IFEMA
-DESCRIPTION:Estado actual: Fecha publicada\nMás información: https://ww
- w.ifema.es/calendario/febrero
+DESCRIPTION:Horario en Madrid: IFEMA publica acceso profesional de 09:30 
+ a 18:30 los días 16 y 17 de febrero\, y de 09:30 a 16:00 el 18 de febre
+ ro.\nLa información de este evento ha sido actualizada.\nEstado actual:
+  Fecha publicada\nMás información: https://www.ifema.es/anuga-select-i
+ berica/horario-actividades\n\nActualizaciones:\n2026-11-09: IFEMA confir
+ ma el inicio del acceso profesional a las 09:30: cierre a las 18:30 los 
+ días 16 y 17 de febrero y a las 16:00 el día 18. Fuente: https://www.i
+ fema.es/anuga-select-iberica/horario-actividades
 CATEGORIES:Gastronomía
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1113,8 +1361,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:c486b717bd9521feb1b36be99351@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270309
 SUMMARY:Coffee Fest Madrid 2027
@@ -1131,8 +1379,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:69ff97cc37efdacb2c78b8d8ec33@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270318
 SUMMARY:Winemad 2027 - Feria Profesional del Vino
@@ -1149,8 +1397,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:35c4e2db29b648f724fea3d73f36@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270407T080000Z
 DTEND:20270410T120000Z
 SUMMARY:MOTORTEC Madrid 2027 - Feria Internacional para la Industria de A
@@ -1164,7 +1412,7 @@ DESCRIPTION:Horario en Madrid: comienza el 07/04/2027 a las 10:00 h y ter
  ra MOTORTEC\, del 7 al 10 de abril de 2027. Fuente: https://www.ifema.es
  /motortec/horario-actividades\n2026-11-09: IFEMA publica el horario de M
  OTORTEC: de 10:00 a 19:00 del 7 al 9 de abril y de 10:00 a 14:00 el día
-  10.. Fuente: https://www.ifema.es/motortec/horario-actividades
+  10. Fuente: https://www.ifema.es/motortec/horario-actividades
 CATEGORIES:Feria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1172,8 +1420,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:c999e6853e54c4194ea3c1de37b9@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261115T194500Z
 SUMMARY:UEFA Nations League - España vs. Inglaterra
 LOCATION:Estadio Riyadh Air Metropolitano
@@ -1182,8 +1430,8 @@ DESCRIPTION:Horario en Madrid: comienza el 15/11/2026 a las 20:45 h.\nLa
  ublicada\nMás información: https://rfef.es/es/noticias/el-metropolitan
  o-acogera-el-espana-inglaterra-de-la-nations-league\n\nActualizaciones:\
  n2026-11-09: La RFEF confirma el comienzo del España–Inglaterra del 1
- 5 de noviembre a las 20:45.. Fuente: https://rfef.es/es/acreditaciones/e
- spana-inglaterra-absoluta-masculina
+ 5 de noviembre a las 20:45. Fuente: https://rfef.es/es/acreditaciones/es
+ pana-inglaterra-absoluta-masculina
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1191,8 +1439,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:f3db9167fc89b754a76e12cd860e@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261124T190000Z
 SUMMARY:UEFA Champions League - Real Madrid vs. PSV Eindhoven
 LOCATION:Estadio Santiago Bernabéu
@@ -1201,8 +1449,8 @@ DESCRIPTION:Horario en Madrid: comienza el 24/11/2026 a las 20:00 h.\nLa
  ublicada\nMás información: https://www.realmadrid.com/es-ES/futbol/par
  tidos/entradas/real-madrid-psv-24-11-2026\n\nActualizaciones:\n2026-11-0
  9: El Real Madrid publica el inicio del partido contra el PSV el 24 de n
- oviembre a las 20:00.. Fuente: https://www.realmadrid.com/es-ES/futbol/p
- artidos/champions-league/real-madrid-psv/24-11-2026
+ oviembre a las 20:00. Fuente: https://www.realmadrid.com/es-ES/futbol/pa
+ rtidos/champions-league/real-madrid-psv/24-11-2026
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1210,8 +1458,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:c026d3b919d4ca714acc1048dd68@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261125T200000Z
 SUMMARY:UEFA Champions League - Atlético de Madrid vs. Viking FK
 LOCATION:Estadio Riyadh Air Metropolitano
@@ -1220,9 +1468,9 @@ DESCRIPTION:Horario en Madrid: comienza el 25/11/2026 a las 21:00 h.\nLa
  ublicada\nMás información: https://www.atleticodemadrid.com/noticias/n
  uestros-rivales-de-la-fase-liga-de-la-champions-league-para-esta-tempora
  da\n\nActualizaciones:\n2026-11-09: El Atlético de Madrid confirma el i
- nicio del partido contra el Viking el 25 de noviembre a las 21:00.. Fuen
- te: https://www.atleticodemadrid.com/entradas/entrada/atletico-de-madrid
- -viking-2
+ nicio del partido contra el Viking el 25 de noviembre a las 21:00. Fuent
+ e: https://www.atleticodemadrid.com/entradas/entrada/atletico-de-madrid-
+ viking-2
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1230,8 +1478,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:56173eb531d265d1b8a7eaf1e109@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270119T200000Z
 SUMMARY:UEFA Champions League - Real Madrid vs. LASK
 LOCATION:Estadio Santiago Bernabéu
@@ -1240,8 +1488,8 @@ DESCRIPTION:Horario en Madrid: comienza el 19/01/2027 a las 21:00 h.\nLa
  ublicada\nMás información: https://www.realmadrid.com/es-ES/futbol/par
  tidos/entradas/real-madrid-lask-19-01-2027\n\nActualizaciones:\n2026-11-
  09: El Real Madrid publica el inicio del partido contra el LASK el 19 de
-  enero a las 21:00.. Fuente: https://www.realmadrid.com/es-ES/futbol/par
- tidos/entradas/real-madrid-lask-19-01-2027
+  enero a las 21:00. Fuente: https://www.realmadrid.com/es-ES/futbol/part
+ idos/entradas/real-madrid-lask-19-01-2027
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1249,8 +1497,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:133099b498d6161008f1841a568d@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270119T193000Z
 SUMMARY:Muse - The Wow! Signal Europe Tour
 LOCATION:Movistar Arena
@@ -1259,9 +1507,8 @@ DESCRIPTION:Horario en Madrid: comienza el 19/01/2027 a las 20:30 h.\nLa
  ublicada\nMás información: https://www.movistararena.es/programacion/\
  n\nActualizaciones:\n2026-11-09: Movistar Arena indica que el concierto 
  de Muse del 19 de enero comienza a las 20:30\; la hora de finalización 
- aún no está disponible.. Fuente: https://www.movistararena.es/programa
- cion/evento/muse-the-wow-signal-europa-tour/19-1-2027/20%3A30/informacio
- n
+ aún no está disponible. Fuente: https://www.movistararena.es/programac
+ ion/evento/muse-the-wow-signal-europa-tour/19-1-2027/20%3A30/informacion
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1269,8 +1516,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:28beb74b3786c843fa6f3d558afd@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270120T193000Z
 SUMMARY:Muse - The Wow! Signal Europe Tour
 LOCATION:Movistar Arena
@@ -1279,9 +1526,8 @@ DESCRIPTION:Horario en Madrid: comienza el 20/01/2027 a las 20:30 h.\nLa
  ublicada\nMás información: https://www.movistararena.es/programacion/\
  n\nActualizaciones:\n2026-11-09: Movistar Arena indica que el concierto 
  de Muse del 20 de enero comienza a las 20:30\; la hora de finalización 
- aún no está disponible.. Fuente: https://www.movistararena.es/programa
- cion/evento/muse-the-wow-signal-europa-tour/20-1-2027/20%3A30/informacio
- n
+ aún no está disponible. Fuente: https://www.movistararena.es/programac
+ ion/evento/muse-the-wow-signal-europa-tour/20-1-2027/20%3A30/informacion
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1289,8 +1535,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:b00232f9e5a0c1cf34e8929ecf02@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270127T200000Z
 SUMMARY:UEFA Champions League - Atlético de Madrid vs. Fenerbahçe
 LOCATION:Estadio Riyadh Air Metropolitano
@@ -1299,9 +1545,9 @@ DESCRIPTION:Horario en Madrid: comienza el 27/01/2027 a las 21:00 h.\nLa
  ublicada\nMás información: https://www.atleticodemadrid.com/noticias/n
  uestros-rivales-de-la-fase-liga-de-la-champions-league-para-esta-tempora
  da\n\nActualizaciones:\n2026-11-09: El Atlético de Madrid confirma el i
- nicio del partido contra el Fenerbahçe el 27 de enero a las 21:00.. Fue
- nte: https://www.atleticodemadrid.com/entradas/entrada/atletico-de-madri
- d-fenerbah-e
+ nicio del partido contra el Fenerbahçe el 27 de enero a las 21:00. Fuen
+ te: https://www.atleticodemadrid.com/entradas/entrada/atletico-de-madrid
+ -fenerbah-e
 CATEGORIES:Deporte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1309,8 +1555,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:d3a010169015b0c1ddf274712d50@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270403T093000Z
 DTEND:20270411T183000Z
 SUMMARY:ANTIK Almoneda 2027 - Feria de Antigüedades\, Galerías de Arte 
@@ -1323,8 +1569,8 @@ DESCRIPTION:Horario en Madrid: comienza el 03/04/2027 a las 11:30 h y ter
  1-01: IFEMA MADRID confirma el pabellón 4 para la feria\, que mantiene 
  sus fechas del 3 al 11 de abril de 2027. Fuente: https://www.ifema.es/al
  moneda/horario-actividades\n2026-11-09: IFEMA publica el horario de ANTI
- K Almoneda\, de 11:30 a 20:30\, del 3 al 11 de abril.. Fuente: https://w
- ww.ifema.es/almoneda/horario-actividades
+ K Almoneda\, de 11:30 a 20:30\, del 3 al 11 de abril. Fuente: https://ww
+ w.ifema.es/almoneda/horario-actividades
 CATEGORIES:Arte
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1332,8 +1578,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:5f4c2ce89c6b21484ccff369d4f8@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270409T183000Z
 SUMMARY:Quevedo - El Baifo Tour 2027
 LOCATION:Movistar Arena
@@ -1343,8 +1589,8 @@ DESCRIPTION:Horario en Madrid: comienza el 09/04/2027 a las 20:30 h.\nLa
  vento/quevedo-el-baifo-tour-2027/9-4-2027/20%3A30\n\nActualizaciones:\n2
  026-11-09: Movistar Arena publica el inicio del concierto de Quevedo del
   9 de abril a las 20:30\; la hora de finalización aún no está disponi
- ble.. Fuente: https://www.movistararena.es/programacion/evento/quevedo-e
- l-baifo-tour-2027/9-4-2027/20%3A30
+ ble. Fuente: https://www.movistararena.es/programacion/evento/quevedo-el
+ -baifo-tour-2027/9-4-2027/20%3A30
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1352,8 +1598,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:63092b95144800ee1c242dc9781a@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270410T183000Z
 SUMMARY:Quevedo - El Baifo Tour 2027
 LOCATION:Movistar Arena
@@ -1363,8 +1609,8 @@ DESCRIPTION:Horario en Madrid: comienza el 10/04/2027 a las 20:30 h.\nLa
  vento/quevedo-el-baifo-tour-2027/9-4-2027/20%3A30\n\nActualizaciones:\n2
  026-11-09: Movistar Arena publica el inicio del concierto de Quevedo del
   10 de abril a las 20:30\; la hora de finalización aún no está dispon
- ible.. Fuente: https://www.movistararena.es/programacion/evento/quevedo-
- el-baifo-tour-2027/9-4-2027/20%3A30
+ ible. Fuente: https://www.movistararena.es/programacion/evento/quevedo-e
+ l-baifo-tour-2027/9-4-2027/20%3A30
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1372,8 +1618,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:98220b1f7b3db01c35977f0ee8b0@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270411T183000Z
 SUMMARY:Quevedo - El Baifo Tour 2027
 LOCATION:Movistar Arena
@@ -1383,8 +1629,8 @@ DESCRIPTION:Horario en Madrid: comienza el 11/04/2027 a las 20:30 h.\nLa
  vento/quevedo-el-baifo-tour-2027/9-4-2027/20%3A30\n\nActualizaciones:\n2
  026-11-09: Movistar Arena publica el inicio del concierto de Quevedo del
   11 de abril a las 20:30\; la hora de finalización aún no está dispon
- ible.. Fuente: https://www.movistararena.es/programacion/evento/quevedo-
- el-baifo-tour-2027/9-4-2027/20%3A30
+ ible. Fuente: https://www.movistararena.es/programacion/evento/quevedo-e
+ l-baifo-tour-2027/9-4-2027/20%3A30
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1392,8 +1638,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:c5f2aa2e9df0364959663473acb6@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270414T183000Z
 SUMMARY:Quevedo - El Baifo Tour 2027
 LOCATION:Movistar Arena
@@ -1403,8 +1649,8 @@ DESCRIPTION:Horario en Madrid: comienza el 14/04/2027 a las 20:30 h.\nLa
  vento/quevedo-el-baifo-tour-2027/9-4-2027/20%3A30\n\nActualizaciones:\n2
  026-11-09: Movistar Arena publica el inicio del concierto de Quevedo del
   14 de abril a las 20:30\; la hora de finalización aún no está dispon
- ible.. Fuente: https://www.movistararena.es/programacion/evento/quevedo-
- el-baifo-tour-2027/9-4-2027/20%3A30
+ ible. Fuente: https://www.movistararena.es/programacion/evento/quevedo-e
+ l-baifo-tour-2027/9-4-2027/20%3A30
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1412,8 +1658,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:a64301b2915c3ca07e9e7f60e7e8@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270415T183000Z
 SUMMARY:Quevedo - El Baifo Tour 2027
 LOCATION:Movistar Arena
@@ -1423,8 +1669,8 @@ DESCRIPTION:Horario en Madrid: comienza el 15/04/2027 a las 20:30 h.\nLa
  vento/quevedo-el-baifo-tour-2027/9-4-2027/20%3A30\n\nActualizaciones:\n2
  026-11-09: Movistar Arena publica el inicio del concierto de Quevedo del
   15 de abril a las 20:30\; la hora de finalización aún no está dispon
- ible.. Fuente: https://www.movistararena.es/programacion/evento/quevedo-
- el-baifo-tour-2027/9-4-2027/20%3A30
+ ible. Fuente: https://www.movistararena.es/programacion/evento/quevedo-e
+ l-baifo-tour-2027/9-4-2027/20%3A30
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1432,8 +1678,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:7cdfe7496f5c43a943dea6891f36@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261221T193000Z
 SUMMARY:Melendi - Pop Rock Tour
 LOCATION:Movistar Arena
@@ -1443,9 +1689,9 @@ DESCRIPTION:Horario en Madrid: comienza el 21/12/2026 a las 20:30 h.\nLa
  actual: Fecha publicada\nMás información: https://www.movistararena.es
  /programacion/\n\nActualizaciones:\n2026-11-09: Movistar Arena publica e
  l inicio de los conciertos de Melendi a las 20:30 los días 21\, 22 y 23
-  de diciembre\; la hora de finalización aún no está disponible.. Fuen
- te: https://www.movistararena.es/programacion/evento/melendi-pop-rock-to
- ur
+  de diciembre\; la hora de finalización aún no está disponible. Fuent
+ e: https://www.movistararena.es/programacion/evento/melendi-pop-rock-tou
+ r
 CATEGORIES:Música
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1453,15 +1699,19 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6ea14eccdb8e232414862cde48@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261204
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20261130T080000Z
 SUMMARY:CONAMA 2026 - Congreso Nacional del Medio Ambiente
 LOCATION:IFEMA MADRID - Centro de Convenciones Norte
-DESCRIPTION:Estado actual: Fecha publicada\nMás información: https://ww
- w.conama.org/conama-2026-un-espacio-de-encuentro-para-impulsar-la-transi
- cion-ecologica-justo-despues-de-las-elecciones/
+DESCRIPTION:Horario en Madrid: El programa provisional de CONAMA comienza
+  el 30 de noviembre con la inauguración a las 09:00\; el resto del prog
+ rama varía por jornada.\nLa información de este evento ha sido actuali
+ zada.\nEstado actual: Fecha publicada\nMás información: https://www.co
+ nama.org/programa/\n\nActualizaciones:\n2026-11-09: El programa provisio
+ nal de CONAMA sitúa la inauguración del 30 de noviembre a las 09:00\; 
+ los horarios de las demás sesiones varían por jornada. Fuente: https:/
+ /www.conama.org/programa/
 CATEGORIES:Congreso
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1469,15 +1719,19 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:c6a7b68b79e35a23f50e6d6a4602@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
+DTSTART:20270316T083000Z
 SUMMARY:REBUILD 2027 - Congreso de Arquitectura Avanzada y Construcción 
  4.0
 LOCATION:IFEMA MADRID
-DESCRIPTION:Estado actual: Fecha publicada\nMás información: https://ww
- w.rebuildexpo.com/
+DESCRIPTION:Horario en Madrid: REBUILD publica apertura a las 09:30 los t
+ res días\; el cierre está previsto a las 18:30 el 16 y 17 de marzo y a
+  las 18:00 el 18.\nLa información de este evento ha sido actualizada.\n
+ Estado actual: Fecha publicada\nMás información: https://www.rebuildex
+ po.com/\n\nActualizaciones:\n2026-11-09: La organización publica apertu
+ ra a las 09:30 los tres días\; cierre a las 18:30 el 16 y 17 de marzo y
+  a las 18:00 el 18. Fuente: https://www.rebuildexpo.com/
 CATEGORIES:Congreso y feria
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1485,8 +1739,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:8d6be97b63c161af9bd7197e5ffd@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20270301T090000Z
 DTEND:20270303T170000Z
 SUMMARY:HIP 2027 - Feria de Innovación para la Hostelería
@@ -1496,7 +1750,7 @@ DESCRIPTION:Horario en Madrid: comienza el 01/03/2027 a las 10:00 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.expohip.com/visitar/\n\nActualizaciones:\n2026-11-09: La organiza
  ción publica el horario de HIP 2027: de 10:00 a 19:00 el 1 y 2 de marzo
-  y de 10:00 a 18:00 el día 3.. Fuente: https://www.expohip.com/visitar/
+  y de 10:00 a 18:00 el día 3. Fuente: https://www.expohip.com/visitar/
 CATEGORIES:Hostelería
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1504,8 +1758,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:34bd820397fff00bd23fbe6731a1@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270308
 SUMMARY:Art Madrid 2027 - Feria de Arte Contemporáneo
@@ -1520,8 +1774,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:da2ab4644cff21507c082d1cada6@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Manifestación en la calle Alcalá - Gran Vía a Puerta del Sol
@@ -1539,8 +1793,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:9e535980a09fc4877e8a1357e08e@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261117T083000Z
 DTEND:20261118T154500Z
 SUMMARY:World Business Forum Madrid 2026
@@ -1550,8 +1804,8 @@ DESCRIPTION:Horario en Madrid: comienza el 17/11/2026 a las 09:30 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://wobi.es/es/wbf-madrid/\n\nActualizaciones:\n2026-11-09: WOBI publica 
  el inicio de la agenda a las 9:30 los dos días\; el último bloque del 
- día 18 termina a las 16:45. La agenda figura como tentativa.. Fuente: h
- ttps://wobi.es/es/wbf-madrid/
+ día 18 termina a las 16:45. La agenda figura como tentativa. Fuente: ht
+ tps://wobi.es/es/wbf-madrid/
 CATEGORIES:Congreso empresarial
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1559,8 +1813,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:0f28948de20d6c627de4cdc95417@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Manifestación en el centro de Madrid - Alcalá\, Sevilla y Puert
@@ -1580,8 +1834,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:a65910812fb85f24806d0dcbb515@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261104T083000Z
 DTEND:20261105T160000Z
 SUMMARY:PRIVEL 2026 - Feria Profesional de Marca Privada
@@ -1591,8 +1845,8 @@ DESCRIPTION:Horario en Madrid: comienza el 04/11/2026 a las 09:30 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://www.ifema.es/privel/horario-actividades\n\nActualizaciones:\n2026-11-
  09: IFEMA publica el horario profesional de PRIVEL: el 4 de noviembre\, 
- de 9:30 a 17:30\, y el día 5\, de 9:30 a 17:00.. Fuente: https://www.if
- ema.es/privel/horario-actividades
+ de 9:30 a 17:30\, y el día 5\, de 9:30 a 17:00. Fuente: https://www.ife
+ ma.es/privel/horario-actividades
 CATEGORIES:Feria profesional
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1600,8 +1854,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:6de9e6339046306cc318eeddc3aa@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Encendido del alumbrado navideño de Madrid 2026
@@ -1616,8 +1870,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:be99b549de08cae573cfc43f53d2@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Manifestación en el centro de Madrid - Princesa\, Gran Vía y Al
@@ -1636,8 +1890,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:123c52dde55d848a6640b046feae@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Manifestación en el centro de Madrid - Aduana\, Virgen de los Pe
@@ -1657,8 +1911,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:ff7c8a8f19d909aaad7279b0a85a@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Manifestación en la calle Alcalá - Gran Vía a Puerta del Sol
@@ -1676,8 +1930,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:bf6e32c1d1f509754900fe6c2748@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Manifestación en el centro de Madrid - Atocha\, Cibeles y Alcal
@@ -1697,8 +1951,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:f0e439d47f16a11e1a208e106379@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Manifestación en el centro de Madrid - Gran Vía y Paseo del Pra
@@ -1717,8 +1971,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:2592affeb7a89019ff31382b2db8@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Manifestación en el centro de Madrid - Alcalá\, Cibeles y Paseo
@@ -1738,8 +1992,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:55c00ca8989eee0a86f15b16165e@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Aviso de tráfico en la plaza de Cibeles
@@ -1757,8 +2011,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:f792c2dde23f6d6f5ee72f551d89@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Manifestación en el centro de Madrid - Cibeles\, Alcalá y Gran 
@@ -1778,8 +2032,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 END:VEVENT
 BEGIN:VEVENT
 UID:73b1a731cbaf0b9ec8a7701f3259@nobu-madrid-calendar
-DTSTAMP:20261109T131925Z
-LAST-MODIFIED:20261109T131925Z
+DTSTAMP:20261109T133153Z
+LAST-MODIFIED:20261109T133153Z
 DTSTART:20261111T090000Z
 DTEND:20261113T140000Z
 SUMMARY:Expo Asian Food 2026 - Feria Internacional de Restauración y Gas
@@ -1790,8 +2044,8 @@ DESCRIPTION:Horario en Madrid: comienza el 11/11/2026 a las 10:00 h y ter
  o actualizada.\nEstado actual: Fecha publicada\nMás información: https
  ://expoaf.com/entradas/\n\nActualizaciones:\n2026-11-09: La organizació
  n publica el horario de Expo Asian Food: de 10:00 a 18:00 los días 11 y
-  12 de noviembre y de 10:00 a 15:00 el día 13.. Fuente: https://expoaf.
- com/entradas/
+  12 de noviembre y de 10:00 a 15:00 el día 13. Fuente: https://expoaf.c
+ om/entradas/
 CATEGORIES:Gastronomía
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
